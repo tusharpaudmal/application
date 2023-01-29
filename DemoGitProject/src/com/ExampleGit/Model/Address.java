@@ -8,12 +8,13 @@ private int id;
   public int getId() {
 	return id;
 }
-public void setId(int name) {
+public void setId(int id) {
 	this.id = id;
-  
-  public String setLocalAddress(String localAddress)
+}
+  public void setLocalAddress(String localAddress)
+  {
     this.localAddress=localAddress;
-  
+  }
   public String getLocalAddress(){
   return localAddress;
   }
