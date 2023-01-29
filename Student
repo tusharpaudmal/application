@@ -1,0 +1,14 @@
+public Class Student{
+
+private int id=10;
+private String name="tushar";
+
+public static void main(String [] args)
+{
+system.out.println(id);
+system.out.println(name);
+
+}
+
+
+}
