@@ -8,6 +8,9 @@ public class StudentMain {
 		System.out.println("student main class....");
 		
 		System.out.println("this is first example of git on eclipse ");
+		
+		
+		System.out.println("after pushing changes....");
 	}
 
 }

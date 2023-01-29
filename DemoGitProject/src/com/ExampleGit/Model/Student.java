@@ -24,7 +24,6 @@ public void setAddress(String address) {
 }
 @Override
 public String toString() {
-	return "Student [id=" + id + ", name=" + name + ", address=" + address + "]";
 }
 
 
